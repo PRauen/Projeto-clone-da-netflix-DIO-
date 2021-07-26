@@ -1,0 +1,1 @@
+Neste projeto será feito um site clone da NETFLIX, através das aulas e explicações da DIO.
